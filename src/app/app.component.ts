@@ -1,10 +1,26 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'LocalsJobsCompany';
+export class AppComponent implements OnInit{
+  title = 'GlobalPainting';
+  
+  constructor(public translate: TranslateService){
+    
+    translate.addLangs(['en', 'es']);
+    translate.setDefaultLang('es');
+    const browserLang = translate.getBrowserLang();
+    translate.use(browserLang.match(/en|es/) ? browserLang : 'es');
+  }
+  
+  change(language) {
+    this.translate.use(language);
+  }
+  ngOnInit() {
+
+  }
 }

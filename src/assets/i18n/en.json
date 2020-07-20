@@ -1,0 +1,76 @@
+{
+    "Menu": {
+        "Home": "Home",
+        "Features": "Services",
+        "About": "About Us",
+        "Team": "Our Team",
+        "Testimonials": "Testimonials",
+        "Contact": "Contact"
+    },
+
+    "Motto":{
+        "Motto":"Make Your Business More Profitable"
+    }, 
+    "Features":{
+        "Title":"Our Services",
+        "Text":"We design solutions according to the needs of our clients, guaranteeing that the final product has the quality you deserve, and providing you with a robust, adaptable and scalable system.",
+        "S1":"Analysis, Design and Development of Software",
+        "T1":"We provide software solutions to real problems that are 100% adjusted to the needs of our clients, on any platform (mobile, web or desktop).",
+        "S2":"Smart House",
+        "T2":"Hardware development for the automation of luminaires, climate, automatic doors and operating systems for smart home control.", 
+        "S3":"Data Analysis",
+        "T3":"We offer data analysis services, in different technologies, data types, treatment, analysis and visualization. Offering you resources to make the best decisions for your business.",
+        "S4":"Local Network Design",
+        "T4":"Design of Intranets and platforms to manage the internal communications of any company.",
+        "S5":"Users Training",
+        "T5":"After delivering the solution to our clients, we offer training to future users of the system.",
+        "S6":"Support and Maintenance",
+        "T6":"We offer continuous and personalized support and maintenance by specialists in your system."  
+    },
+    "Related_Work":{
+        "Title":"Related Wordks",
+        "Text": "A sample of our most successful works, and the clien's reaction to their visualization",
+        "w1_Description": "Sistema de ventas online. Venta de electrodomésticos con envio en estados unidos y el caribe. Cuenta con tres sistemas: <br> 1-Cliente (Movil y Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)"
+    },
+    "About":{
+        "About":"About Us",
+        "Mission":"Our Mission",
+        "Text":"LocalJobs it`s a company focused on software and hardware development, providing customized solutions for each client. Using the most innovative technologies LocalJobs launches everything you imagine for your business.",
+        "Text2":"The systems developed are modular providing  scalability, adaptability and ease of changes. This type of systems will allow the client to add new functions as his business grows and adapt his capabilities in real time.",
+        "Text3":"We guarantee:",
+        "Obj1":"Quality",
+        "Obj2":"Efficiency",
+        "Obj3":"Seriousness"
+    },
+
+    "Professions":{
+        "Team":"Our Team",
+        "Text":"We are a multi-disciplinary team, specialized in different branches of engineering",
+        "Anabel":"Software Engineer",
+        "Resumen-An":"Software Engineer graduated at Technological University of Havana. Focused in Data Analysis Tecniques to Support Decision Making",
+        "Sandy":"Software Engineer",
+        "Resumen-San":"Software Engineer, project manager of the company specialized in the development of multiplatform applications, artificial intelligence and business modeling",
+        "Wendy":"Telecommunications and Electronics Engineer",
+        "Resumen-Wen":"",
+        "Alejandro":"Telecommunications and Electronics Engineer",
+        "Resumen-Ale":"",
+        "Carlos":"Automatic Engineer",
+        "Resumen-Car":"Robotic researcher with a bachelor degree in Automatics Engineering. Passionate with artificial intelligence and data processing."
+    },
+    "Testimonials":{
+        "Title":"Testimonials",
+        "T1":"",
+        "T2":"",
+        "T3":""
+    },
+    "Contact":{
+        "Title":"Contact Us",
+        "Name":"Name",
+        "LastName":"Last Name",
+        "Email":"Email",
+        "Subject":"Subject",
+        "Message":"Message",
+        "PlaceHolder":"Leave your message here...",
+        "Send":"Send Message"
+    }
+}
