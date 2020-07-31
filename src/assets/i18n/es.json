@@ -35,7 +35,10 @@
         "w1_comment" : "Wow asombroso, un sistema muy instuitivo y de gran calidad. Mis ganancias se han elevado un 60% y poseo gran control de las ventas y clientes",
         "w2_Description": "Sistema para la muestra de colleción propia del cliente, donde se muetran multiples secciones de diferentes imagenes de piezas del coleccionismo cubano. Cuenta con tres sistemas: <br> 1-Cliente (Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)",
         "w2_profession" : "Fundador <a href='http://cubamuseo.com'>cubamuseo.com<a>",
-        "w2_comment" : "Muy bien estructurado con diseño totalmente adaptable a los dispositivos de acceso a internet. Muy buen trabajo seguiré trabajando con ustedes"
+        "w2_comment" : "Muy bien estructurado con diseño totalmente adaptable a los dispositivos de acceso a internet. Muy buen trabajo seguiré trabajando con ustedes",
+        "w3_Description": "Aplicación android para el apoyo en el sistema de enseñanza-aprendizaje en la rama de la filosofía. Desarrollada en Ionic Framework, para su uso multiplataforma.",
+        "w3_profession" : "Licenciado en Educación en Historia y Ciencias",
+        "w3_comment" : "Agradecer al grupo de desarrollo sin el cual hubiera sido imposible desarrollar la APK: “Espiral”,que constituyó el último elemento complementario de mi investigación, desarrollada en el área de la enseñanza-aprendizaje de las ciencias sociales."
     },
     "About":{
         "About":"Quienes Somos",
@@ -64,9 +67,9 @@
     },
     "Testimonials":{
         "Title":"Opiniones de nuestros clientes",
-        "T1":"",
-        "T2":"",
-        "T3":""
+        "T1":"Nunca pensé que estos jovenes ingenieros podrían realizar un trabajo de alta calidad con tan buenos precios. La atención al cliente es de las mejores que he experimentado, muy pacientes y magníficos tratos. Muy eficientes a la hora del cumpliento de listas de tareas conveniadas.",
+        "T2":"Muy carismáticos jovenes, que dan lo mejor de sí en sus trabajos. Estoy muy contento con los resultados que se obtienen tanto en eficacia, eficiencia y calidad.",
+        "T3":"De estudiantes magníficos, ahora profesionales realizando un exelente trabajo con explendidos resultados. Muy orgullo de haber sido parte de su enseñaza y observar sus avances satisfactorios en el mundo de las pequeñas compañias."
     },
     "Contact":{
         "Title":"Contáctanos",

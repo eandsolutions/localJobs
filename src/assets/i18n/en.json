@@ -28,10 +28,18 @@
         "T6":"We offer continuous and personalized support and maintenance by specialists in your system."  
     },
     "Related_Work":{
-        "Title":"Related Wordks",
+        "Title":"Related Works",
         "Text": "A sample of our most successful works, and the clien's reaction to their visualization",
-        "w1_Description": "Sistema de ventas online. Venta de electrodomésticos con envio en estados unidos y el caribe. Cuenta con tres sistemas: <br> 1-Cliente (Movil y Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)"
-    },
+        "w1_Description": "Online sales system. Sale of household appliances with shipping in the united states and the caribbean. It has three systems: <br> 1-Client (Mobile and Web) <br> 2-Administrator (Information Management) <br> 3-Server (Communication with data bases)",
+        "w1_profession" : "Mechanical engineer",
+        "w1_comment" : "Wow amazing, a very intuitive and high quality system. My earnings have increased 60% and I have great control over sales and clients",
+        "w2_Description": "System for the exhibition of the client's own collection, where multiple sections of different images of pieces of Cuban collecting are displayed. It has three systems: <br> 1-Client (Web) <br> 2-Administrator (Information management) <br> 3-Server (Communication with data bases)",
+        "w2_profession" : "Founder <a href='http://cubamuseo.com'>cubamuseo.com<a>",
+        "w2_comment" : "Very well structured with a design fully adaptable to internet access devices. Very good work I will continue working with you",
+        "w3_Description": "Android application for support in the teaching-learning system in the branch of philosophy. Developed in Ionic Framework, for multiplatform use.",
+        "w3_profession" : "Bachelor of Education in History and Science",
+        "w3_comment" : "To thank the development group without which it would have been impossible to develop the APK: “Spiral”, which was the last complementary element of my research, developed in the area of ​​teaching-learning of the social sciences."
+       },
     "About":{
         "About":"About Us",
         "Mission":"Our Mission",
@@ -59,9 +67,9 @@
     },
     "Testimonials":{
         "Title":"Testimonials",
-        "T1":"",
-        "T2":"",
-        "T3":""
+        "T1":"I never thought that these young engineers could do high-quality work at such great prices. The customer service is one of the best I have experienced, very patient and magnificent deals. Very efficient when it comes to complying with agreed task lists.",
+        "T2":"Very charismatic young people, who give their best in their jobs. I am very happy with the results that are obtained both in effectiveness, efficiency and quality.",
+        "T3":"Of magnificent students, now professionals doing an excellent job with splendid results. Very proud to have been part of his teaching and to observe his satisfactory progress in the world of small companies."
     },
     "Contact":{
         "Title":"Contact Us",
